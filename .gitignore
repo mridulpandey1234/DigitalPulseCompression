@@ -1,0 +1,22 @@
+# Vivado generated folders
+.Xil/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# Logs
+*.jou
+*.log
+*.backup.jou
+*.backup.log
+
+# Waveforms
+*.wdb
+*.wcfg
+
+# Temporary
+*.str
+*.tmp

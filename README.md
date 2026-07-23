@@ -449,7 +449,11 @@ TREADY == 1
 
 # References
 
-1. Xilinx Fast Fourier Transform Product Guide (PG109)
-2. Skolnik, *Radar Handbook*
-3. Richards, *Fundamentals of Radar Signal Processing*
-4. Digital Pulse Compression using FFT
+ [1] V. Thakur, A. K. Verma, P. P. Jena, and G. Surya Prasad, "Design and Implementation of FPGA Based Digital Pulse Compression via Fast Convolution Using FFT-OS Method," in International Conference on Microwave, Optical and Communication Engineering (ICMOCE), 2015, pp. 18–20.
+
+[2] S. Elian Mailem, J. P. Pascual, and J. Crego, "Development of FPGA-Based Radar Back-End," IEEE Latin America Transactions, vol. 24, no. 1, Jan. 2026.
+
+[3] M. I. Skolnik, Introduction to Radar Systems, 3rd ed. New York, NY, USA: McGraw-Hill, 2001.
+
+[4] M. A. Richards, Fundamentals of Radar Signal Processing, 2nd ed. New York, NY, USA: McGraw-Hill Education, 2014.
+
